@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>Tom OLIVIER</Authors>
+    <Description>Pokédex</Description>
+    <PackageProjectUrl>https://github.com/Tom60chat/Pokedex</PackageProjectUrl>
+    <NeutralLanguage>fr</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>
