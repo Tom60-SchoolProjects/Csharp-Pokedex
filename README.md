@@ -1,3 +1,3 @@
 # Pokédex
 
-Un Pokédex fait sous .NET 6.
+Un Pokédex fait sous .NET 6 en C#.
